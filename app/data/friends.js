@@ -1,7 +1,7 @@
 var friends = [
   {
   	"name":"Melissa",
-  	"photo":"http://images.8tracks.com/cover/i/002/886/800/made_you_look-9609.png?rect=0,0,500,500&q=98&fm=jpg&fit=max",
+  	"photo":"https://images.8tracks.com/cover/i/002/886/800/made_you_look-9609.png?rect=0,0,500,500&q=98&fm=jpg&fit=max",
   	"scores":[
 	    2,
 	    4,
@@ -33,7 +33,7 @@ var friends = [
   },
   {
   	"name":"Danny",
-  	"photo":"http://images.45cat.com/kenny-loggins-with-jim-messina-dannys-song-cbs-2.jpg",
+  	"photo":"https://images.45cat.com/kenny-loggins-with-jim-messina-dannys-song-cbs-2.jpg",
   	"scores":[
 	    4,
 	    2,
@@ -49,7 +49,7 @@ var friends = [
   },
   {
   	"name":"John",
-  	"photo":"http://s3.amazonaws.com/production.mediajoint.prx.org/public/piece_images/311764/Big_John_painting_by_Mystela_small.jpg",
+  	"photo":"https://s3.amazonaws.com/production.mediajoint.prx.org/public/piece_images/311764/Big_John_painting_by_Mystela_small.jpg",
   	"scores":[
 	    3,
 	    4,
@@ -113,7 +113,7 @@ var friends = [
 },
 {
 	"name": "Fancy",
-	"photo": "http://www.azquotes.com/picture-quotes/quote-i-might-have-been-born-just-plain-white-trash-but-fancy-was-my-name-reba-mcentire-63-62-05.jpg",
+	"photo": "https://www.azquotes.com/picture-quotes/quote-i-might-have-been-born-just-plain-white-trash-but-fancy-was-my-name-reba-mcentire-63-62-05.jpg",
 	"scores": [
 		4,
 		3,
@@ -145,7 +145,7 @@ var friends = [
 },
 {
 	"name": "Haushinka",
-	"photo": "http://images6.fanpop.com/image/forum/171000/171336_1352103977409_full.jpg",
+	"photo": "https://images6.fanpop.com/image/forum/171000/171336_1352103977409_full.jpg",
 	"scores": [
 		1,
 		5,
